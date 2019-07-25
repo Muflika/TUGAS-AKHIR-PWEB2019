@@ -1,0 +1,28 @@
+.header{
+   text-align:center;
+   text-decoration-style:#cff09e;
+   width:100%;
+   background-color:#cff09e;	
+}
+.content{
+   width:100%;
+   background-color:#cff09e;
+   float:left;
+}
+.sidebar{
+	width:40%;
+	text-align:center;
+	background-color:#fff2bc;
+	float:left;
+}
+.footer{
+	width:100%;
+	text-align:center;
+	background-color:#f38630;
+	float:left;
+	 
+
+}
+.img{
+	width:4,5%;
+}
